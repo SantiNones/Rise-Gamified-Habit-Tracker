@@ -11,8 +11,8 @@
 
 Users can create tasks, track daily habits, and earn "experience points" (XP) to level up their profile. The platform also includes a social component, allowing users to share achievements and foster a sense of accountability.
 
-### 💡 Why I built this?
-With a background in **Psychology**, I have always been fascinated by human behavior and motivation. I built RISE to apply technical skills in **React and Python** to solve a real-world problem: consistency. This project represents my transition into Full-Stack Development, combining user-centric design with robust backend logic.
+### 💡 Why we built this?
+With a background in **Psychology**, I have always been fascinated by human behavior and motivation. We built RISE to apply technical skills in **React and Python** to solve a real-world problem: consistency. This project represents our transition into Full-Stack Development, combining user-centric design with robust backend logic.
 
 ---
 
